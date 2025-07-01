@@ -56,6 +56,6 @@ Place the files in the appropriate data directory as referenced in the code.
 4. Run the notebook Project_22I-1565_22I-1776.ipynb or launch the GUI script.
 5. Use the interface to input a summary and explore predictions, translations, and audio.
 
-Acknowledgements
+## Acknowledgements
 This project was developed as the final submission for the Artificial Intelligence course at FAST National University, Islamabad.
 
